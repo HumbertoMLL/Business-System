@@ -1,0 +1,16 @@
+@import '../Vars.scss';
+
+.section__list-users--labels {
+  display: flex;
+  flex-direction: row;
+  list-style: none;
+  justify-content: flex-end;
+  margin-right: 4em;
+  & li {
+  justify-items: flex-start;
+  margin-left: 4em;
+  margin-right: .5em;
+  font-family: $fuente-fuerte;
+  font-size: 20px;
+}
+}

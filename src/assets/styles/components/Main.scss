@@ -1,0 +1,10 @@
+@import '../Vars.scss';
+
+.section {
+  display: grid;
+  grid-template-columns: 1.5fr 3fr;
+  grid-gap: 1em;
+  width: 100%;
+  height: 85vh;
+  background-color: $color-fuerte;
+}

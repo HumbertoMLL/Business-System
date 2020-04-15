@@ -1,0 +1,21 @@
+@import '../Vars.scss';
+
+.section__list-users--add {
+  align-self: flex-end;
+  width: 8em;
+  height: 2.6em;
+  margin-right: 4em;
+  margin-bottom:1em ;
+  border-radius: 6px;
+  background-color: $color-de-contraste;
+  border:none;
+  color: $color-suave;
+  font-size: 16px;
+  margin-top: 1em;
+  &:focus {
+    outline: none;
+  }
+  &:hover {
+    box-shadow: 3px 3px $color-suave ;
+  }
+}
