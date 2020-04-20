@@ -13,7 +13,6 @@
   align-items: center;
   display: flex;
   flex-direction: row;
-  justify-content: flex-end;
   margin-right: 4em;
   margin-left: .5em;
   padding-right: .5em;
@@ -21,6 +20,7 @@
 & li {
   margin-left: 4em;
   margin-right: .5em;
+  // width:7em;
 
 }
 &-img {

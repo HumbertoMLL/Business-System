@@ -1,0 +1,125 @@
+{
+  "initialState": {
+    "employees" : [
+      {
+        "id": 1,
+        "name": "Humberto López",
+        "proyect": "Platzi",
+        "salary": 2000,
+        "monthsOfWork": 24
+      },
+      {
+        "id": 2,
+        "name": "Hector Olvera",
+        "proyect": "Gitlab",
+        "salary": 2400,
+        "monthsOfWork": 12
+      },
+      {
+        "id": 3,
+        "name": "Juana la Alpaca",
+        "proyect": "Platzi",
+        "salary": 2400,
+        "monthsOfWork": 14
+      },
+      {
+        "id": 4,
+        "name": "El tigre toño",
+        "proyect": "Globant",
+        "salary": 3000,
+        "monthsOfWork": 34
+      },
+      {
+        "id": 6,
+        "name": "El Gallo Claudio",
+        "proyect": "Tesla",
+        "salary": 2600,
+        "monthsOfWork": 4
+      },
+      {
+        "id": 7,
+        "name": "Tony Stark",
+        "proyect": "Tesla",
+        "salary": 2780,
+        "monthsOfWork": 12
+      },
+      {
+        "id": 8,
+        "name": "Quetzalli Mondragrón",
+        "proyect": "Platzi",
+        "salary": 2800,
+        "monthsOfWork": 18
+      },
+      {
+        "id": 9,
+        "name": "Kevin Nava",
+        "proyect": "Globant",
+        "salary": 2500,
+        "monthsOfWork": 27
+      },
+      {
+        "id": 10,
+        "name": "Martín Luciano",
+        "proyect": "Arduino",
+        "salary": 1800,
+        "monthsOfWork": 6
+      },
+      {
+        "id": 11,
+        "name": "Minerva Luciano",
+        "proyect": "Gitlab",
+        "salary": 2400,
+        "monthsOfWork": 16
+      },
+      {
+        "id": 12,
+        "name": "Daniel Reyes",
+        "proyect": "Wizline",
+        "salary": 3600,
+        "monthsOfWork": 19
+      },
+      {
+        "id": 13,
+        "name": "Denisse Flores",
+        "proyect": "Wizline",
+        "salary": 2000,
+        "monthsOfWork": 24
+      },
+      {
+        "id": 14,
+        "name": "Valeria López",
+        "proyect": "Wizline",
+        "salary": 1200,
+        "monthsOfWork": 4
+      },
+      {
+        "id": 15,
+        "name": "Sofia Velazquez",
+        "proyect": "Wizline",
+        "salary": 2000,
+        "monthsOfWork": 24
+      },
+      {
+        "id": 16,
+        "name": "Bryan Aceves",
+        "proyect": "Wizline",
+        "salary": 3200,
+        "monthsOfWork": 18
+      },
+      {
+        "id": 17,
+        "name": "Mónica Mijangos",
+        "proyect": "Gitlab",
+        "salary": 4000,
+        "monthsOfWork": 24
+      },
+      {
+        "id": 18,
+        "name": "Andrea Reyes",
+        "proyect": "Globant",
+        "salary": 3000,
+        "monthsOfWork": 2400
+      }
+  ]
+}
+}
