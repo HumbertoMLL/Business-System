@@ -1,4 +1,5 @@
 import React from 'react';
+import PropTypes from 'prop-types';
 import '../assets/styles/components/Employee.scss';
 import pencil from '../static/pencil.svg';
 import trash from '../static/trash.svg';
@@ -32,5 +33,12 @@ const Employee = ({ name, proyect, salary, monthsOfWork }) => (
     </ul>
   </span>
 );
+
+Employee.propTypes={
+  name: PropTypes.string,
+  proyect: PropTypes.string,
+  salary: PropTypes.number,
+  monthsOfWork: PropTypes.number,
+};
 
 export default Employee;

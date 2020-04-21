@@ -1,0 +1,57 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Employee Snapshot Comprobar la UI del componente Employee 1`] = `
+<span
+  className="section__list-users--component"
+>
+  <ul
+    className="section__list-users--component-data"
+  >
+    <li
+      className="section__list-users--component-data-img"
+    >
+      <img
+        alt=""
+        src={Object {}}
+      />
+    </li>
+    <li
+      className="section__list-users--component-data-employe"
+    >
+      <h2 />
+      <h3>
+         Software Engineer 
+      </h3>
+    </li>
+    <li
+      className="section__list-users--component-data-salary"
+    >
+      <h2 />
+      <h3 />
+    </li>
+    <li
+      className="section__list-users--component-data-status"
+    />
+    <li
+      className="section__list-users--component-data-edit"
+    >
+      <button
+        type="button"
+      >
+        <img
+          alt=""
+          src={Object {}}
+        />
+      </button>
+      <button
+        type="button"
+      >
+        <img
+          alt=""
+          src={Object {}}
+        />
+      </button>
+    </li>
+  </ul>
+</span>
+`;
