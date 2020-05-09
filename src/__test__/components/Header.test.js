@@ -1,7 +1,7 @@
 import React from 'react';
 import { mount } from 'enzyme';
 import { create } from 'react-test-renderer';
-import Header from "../../components/Header";
+import Header from '../../components/Header';
 
 describe('<Header />', () => {
   test('Render del componente Header', () => {

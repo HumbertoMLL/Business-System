@@ -3,6 +3,10 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HumbertoMLL/Business-System.git"
+  },
   "scripts": {
     "test": "jest",
     "build": "webpack-dev-server --mode production",

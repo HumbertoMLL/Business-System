@@ -11,8 +11,8 @@ exports[`Employee Snapshot Comprobar la UI del componente Employee 1`] = `
       className="section__list-users--component-data-img"
     >
       <img
-        alt=""
-        src={Object {}}
+        alt="User_image"
+        src="https://firebasestorage.googleapis.com/v0/b/humbertostark21.appspot.com/o/woman.svg?alt=media&token=28e58c45-62a1-4c30-b2a3-da9dac2d692f"
       />
     </li>
     <li
@@ -39,16 +39,16 @@ exports[`Employee Snapshot Comprobar la UI del componente Employee 1`] = `
         type="button"
       >
         <img
-          alt=""
-          src={Object {}}
+          alt="Edit Icon"
+          src="https://firebasestorage.googleapis.com/v0/b/humbertostark21.appspot.com/o/pencil.svg?alt=media&token=75fd35e8-495d-4ce6-9f75-f32a36cc1fcd"
         />
       </button>
       <button
         type="button"
       >
         <img
-          alt=""
-          src={Object {}}
+          alt="Delete Icon"
+          src="https://firebasestorage.googleapis.com/v0/b/humbertostark21.appspot.com/o/trash.svg?alt=media&token=0d246700-9a88-4fc2-b267-649d7be7a9fd"
         />
       </button>
     </li>
