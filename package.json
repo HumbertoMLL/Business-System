@@ -9,8 +9,9 @@
   },
   "scripts": {
     "test": "jest",
-    "build": "webpack-dev-server --mode production",
-    "start": "webpack-dev-server --open --mode development",
+    "build": "webpack --config ./webpack.config.js --mode production",
+    "start": "webpack-dev-server --open --mode production",
+    "dev": "webpack-dev-server --open --mode development",
     "test:watch": "jest --watch"
   },
   "keywords": [],
